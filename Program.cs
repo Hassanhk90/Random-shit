@@ -10,6 +10,8 @@ namespace Random_S
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello!");
+
         }
     }
 }
